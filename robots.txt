@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://MartinHeilemann.github.io/sitemap.xml
+Sitemap: https://MartinHeilemann.github.io/streit-werkstatt/sitemap.xml
